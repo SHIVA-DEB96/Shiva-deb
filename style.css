@@ -1,4 +1,12 @@
-
+*{height:vh;
+    background-repeat:no-repeat;
+    background-url(unsplash.jpg)
+    background-size:cover;
+}
+.bar{
+    background:color:brown;
+}
+</style>
 * {
     margin: 0;
     padding: 0;
